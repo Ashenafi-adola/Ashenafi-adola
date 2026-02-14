@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ashenafi Adola
 
-### 👨‍💻 Software Engineer
+### 👨‍💻 Computer Science and Engineering student @ Adama Science and Technology University
 
 ---
 
