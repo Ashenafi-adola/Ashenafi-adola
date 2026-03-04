@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ashenafi Adola
+# 👋 Hi, I’m Ashenafi Adola a passionate fullstack web developer with Django for the backend and react for the frontend 
 
 ### 👨‍💻 Computer Science and Engineering student @ Adama Science and Technology University
 
