@@ -26,7 +26,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ashenafi-adola&color=blue&style=flat-square)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashenafi-adola&theme=default&hide_border=true&border_radius=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashenafi-adola&layout=compact&theme=default&show_icons=true)
 
